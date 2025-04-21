@@ -1,0 +1,3992 @@
+[
+  {
+    "country": "Afghanistan",
+    "regulatory_body": "Afghanistan Telecom Regulatory Authority (ATRA)",
+    "website": "atra.gov.af",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Standard roaming allowed; limited local regulatory detail published",
+    "language": "Dari, Pashto",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "International roaming based on operator agreements; official data sparse",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a50"
+    }
+  },
+  {
+    "country": "Albania",
+    "regulatory_body": "Electronic and Postal Communications Authority (AKEP)",
+    "website": "akep.al",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU-roaming-like rules; fair usage may apply via operator terms",
+    "language": "Albanian",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Aligns roaming with EU regulations due to EU accession pathway",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a51"
+    }
+  },
+  {
+    "country": "Algeria",
+    "regulatory_body": "Autorit\u00e9 de R\u00e9gulation de la Poste et des Communications \u00c9lectroniques (ARPCE)",
+    "website": "arpce.dz",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "No permanent roaming",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Permanent roaming prohibited, temporary roaming allowed",
+    "language": "Arabic, French",
+    "access_method_api_html_pdf_etc": "PDF, HTML",
+    "others": "Official ARPCE statements required for updates; no consumer API",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a52"
+    }
+  },
+  {
+    "country": "American Samoa",
+    "regulatory_body": "U.S. Federal Communications Commission (FCC) (US Territory)",
+    "website": "fcc.gov",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Covered under U.S. FCC rules; treated as domestic for U.S. carriers",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Follows U.S. regulatory structure",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a53"
+    }
+  },
+  {
+    "country": "Andorra",
+    "regulatory_body": "Andorra Telecom (state-owned operator & regulator)",
+    "website": "andorratelecom.ad",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Standard roaming available via Andorra Telecom; specific caps depend on operator",
+    "language": "Catalan",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Not under EU roaming rules; bilateral roaming with Spain and France",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a54"
+    }
+  },
+  {
+    "country": "Angola",
+    "regulatory_body": "Instituto Angolano das Comunica\u00e7\u00f5es (INACOM)",
+    "website": "inacom.gov.ao",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted under SADC roaming initiatives; no detailed caps published",
+    "language": "Portuguese",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Part of regional harmonization via SADC; data is fragmented",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a55"
+    }
+  },
+  {
+    "country": "Anguilla",
+    "regulatory_body": "Public Utilities Commission (Anguilla)",
+    "website": "https://www.puc.ai",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Standard GSM/4G roaming via FLOW & Digicel; no published caps; tariffs contract\u2011based.",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Small market \u2013 ad\u2011hoc data.",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a56"
+    }
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "regulatory_body": "Antigua and Barbuda Telecommunications Division (ABTD)",
+    "website": "ab.gov.ag (under ministries)",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "CARICOM free roaming initiative (partial implementation); incoming calls typically free",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "NTRC coordinates with regional Caribbean telecom policies",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a57"
+    }
+  },
+  {
+    "country": "Argentina",
+    "regulatory_body": "Ente Nacional de Comunicaciones (ENACOM)",
+    "website": "enacom.gob.ar ",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Free roaming within Mercosur region; bilateral agreements with Chile, Brazil",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Regulated by ENACOM; actively publishes roaming treaty info",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a58"
+    }
+  },
+  {
+    "country": "Armenia",
+    "regulatory_body": "Public Services Regulatory Commission of Armenia (PSRC)",
+    "website": "psrc.am",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Standard roaming permitted; regional agreements with Russia (EAEU) promote capped pricing",
+    "language": "Armenian",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "No specific license required for roaming; aligned with EAEU policy",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a59"
+    }
+  },
+  {
+    "country": "Aruba",
+    "regulatory_body": "Directie Telecommunicatie Zaken (DTZ)",
+    "website": "https://www.dtz.aw",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Permanent M2M/IoT roaming restricted",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Consumer roaming unrestricted; IoT SIMs must register locally after\u202f90\u202fdays.",
+    "language": "Dutch, Papiamento, English",
+    "access_method_api_html_pdf_etc": "HTML & PDF",
+    "others": "DTZ in Dutch; English summaries.",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a5a"
+    }
+  },
+  {
+    "country": "Australia",
+    "regulatory_body": "Australian Communications and Media Authority (ACMA)",
+    "website": "acma.gov.au",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Operators must notify users of charges; no roaming caps or time limits",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ACMA sets transparency standards, not usage restrictions",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a5b"
+    }
+  },
+  {
+    "country": "Austria",
+    "regulatory_body": "Rundfunk und Telekom Regulierungs-GmbH (RTR)",
+    "website": "rtr.at",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU 'Roam Like at Home' applies; fair-use policies enforced",
+    "language": "German",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Regulated under EU law; uniform across member states",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a5c"
+    }
+  },
+  {
+    "country": "Azerbaijan",
+    "regulatory_body": "Ministry of Digital Development and Transport",
+    "website": "mincom.gov.az",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Standard roaming allowed; cooperation with CIS for tariff reduction",
+    "language": "Azerbaijani",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Limited official publications; relies on bilateral arrangements",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a5d"
+    }
+  },
+  {
+    "country": "Bahamas",
+    "regulatory_body": "Utilities Regulation and Competition Authority (URCA)",
+    "website": "urcabahamas.bs",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; part of CARICOM Free Roaming initiative as of 2022",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "URCA oversees implementation; details released via public consultations",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a5e"
+    }
+  },
+  {
+    "country": "Bahrain",
+    "regulatory_body": "Telecommunications Regulatory Authority (TRA)",
+    "website": "tra.org.bh",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "GCC-wide roaming price cap initiative implemented in phases",
+    "language": "Arabic, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "TRA publishes updated guidelines in English and Arabic",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a5f"
+    }
+  },
+  {
+    "country": "Bangladesh",
+    "regulatory_body": "Bangladesh Telecommunication Regulatory Commission (BTRC)",
+    "website": "btrc.gov.bd",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "No permanent roaming",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Standard roaming allowed, but permanent roaming restricted for M2M and IoT",
+    "language": "Bengali, English",
+    "access_method_api_html_pdf_etc": "PDF",
+    "others": "BTRC regulations focus on preventing misuse in long-term roaming",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a60"
+    }
+  },
+  {
+    "country": "Barbados",
+    "regulatory_body": "Telecommunications Unit, Ministry of Innovation",
+    "website": "telecoms.gov.bb",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Part of CARICOM roaming reform; reduced rates on incoming/outgoing since 2022",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Regulatory oversight under Telecommunications Unit; limited online portals",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a61"
+    }
+  },
+  {
+    "country": "Belarus",
+    "regulatory_body": "Ministry of Communications and Informatization",
+    "website": "mpt.gov.by",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; intra-EAEU agreements aim to eliminate roaming surcharges by 2025",
+    "language": "Russian, Belarusian",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Ministry site hosts limited roaming-specific info; details often in joint communiqu\u00e9s",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a62"
+    }
+  },
+  {
+    "country": "Belgium",
+    "regulatory_body": "Belgian Institute for Postal Services and Telecommunications (BIPT)",
+    "website": "bipt.be",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "None (EU RLAH)",
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU/EEA fair\u2011use; residency check after 4\u202fmonths.",
+    "language": "Dutch, French, German",
+    "access_method_api_html_pdf_etc": "HTML, PDF, JSON",
+    "others": "High reliability, frequent.",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a63"
+    }
+  },
+  {
+    "country": "Belize",
+    "regulatory_body": "Public Utilities Commission (PUC)",
+    "website": "puc.bz",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; regulated by PUC, though most agreements operator-level",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Roaming depends on bilateral agreements with operators in US and Central America",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a64"
+    }
+  },
+  {
+    "country": "Benin",
+    "regulatory_body": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et de la Poste (ARCEP)",
+    "website": "arcep.bj",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Regulated under WAEMU/ECOWAS initiatives; incoming roaming often free within region",
+    "language": "French",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ARCEP publishes roaming positions occasionally; regional cooperation active",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a65"
+    }
+  },
+  {
+    "country": "Bermuda",
+    "regulatory_body": "Regulatory Authority of Bermuda (RAB)",
+    "website": "rab.bm",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Managed at operator level; roaming allowed via US/UK providers",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "RAB facilitates oversight but does not enforce roaming caps",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a66"
+    }
+  },
+  {
+    "country": "Bhutan",
+    "regulatory_body": "Bhutan InfoComm and Media Authority (BICMA)",
+    "website": "bicma.gov.bt",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Limited IoT Roaming",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted for consumers; M2M roaming restricted",
+    "language": "Dzongkha, English",
+    "access_method_api_html_pdf_etc": "PDF, HTML",
+    "others": "BICMA documentation is limited; policies mostly stated in licensing terms",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a67"
+    }
+  },
+  {
+    "country": "Bolivia",
+    "regulatory_body": "Autoridad de Regulaci\u00f3n y Fiscalizaci\u00f3n de Telecomunicaciones y Transportes (ATT)",
+    "website": "att.gob.bo",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; Decision 854 (Andean Community) enforces no roaming surcharge within CAN countries",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "PDF, HTML",
+    "others": "ATT enforces CAN roaming agreement; capped fair use may apply",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a68"
+    }
+  },
+  {
+    "country": "Bolivia, Plurinational State of",
+    "regulatory_body": "Autoridad de Regulaci\u00f3n y Fiscalizaci\u00f3n de Telecomunicaciones y Transportes (ATT)",
+    "website": "https://www.att.gob.bo",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "CAN Decision\u202f854\u202f\u2192 zero surcharge; fair\u2011use \u224825\u202fGB/mo.",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Spanish only; manual scrape.",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a69"
+    }
+  },
+  {
+    "country": "Bonaire, Sint Eustatius and Saba",
+    "regulatory_body": "Radiocommunications Agency Netherlands (Agentschap Telecom)",
+    "website": "https://www.agentschaptelecom.nl",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU fair\u2011use via NL legislation.",
+    "language": "Dutch, English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Data under Netherlands regulator.",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a6a"
+    }
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "regulatory_body": "Communications Regulatory Agency (CRA BiH)",
+    "website": "rak.ba",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Regional roaming agreement (Western Balkans) in place; free roaming since July 2021",
+    "language": "Bosnian, Serbian, Croatian",
+    "access_method_api_html_pdf_etc": "PDF, HTML",
+    "others": "CRA monitors fair usage limits under CEFTA/Western Balkans pact",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a6b"
+    }
+  },
+  {
+    "country": "Botswana",
+    "regulatory_body": "Botswana Communications Regulatory Authority (BOCRA)",
+    "website": "bocra.org.bw",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Standard roaming permitted; BOCRA participates in SADC roaming harmonization",
+    "language": "English, Setswana",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Cross-border SADC collaboration for tariff alignment",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a6c"
+    }
+  },
+  {
+    "country": "Brazil",
+    "regulatory_body": "Ag\u00eancia Nacional de Telecomunica\u00e7\u00f5es (Anatel)",
+    "website": "anatel.gov.br",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Permanent Roaming Prohibited",
+    "roaming_details_data_cap_time_limits_licensing_etc": "90-day roaming limit for foreign SIMs; bilateral roaming-free deals with Mercosur, Chile",
+    "language": "Portuguese",
+    "access_method_api_html_pdf_etc": "PDF, HTML",
+    "others": "Anatel enforces domestic residency rules; IoT roaming particularly restricted",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a6d"
+    }
+  },
+  {
+    "country": "Brunei",
+    "regulatory_body": "Authority for Info-communications Technology Industry (AITI)",
+    "website": "aiti.gov.bn",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; bilateral agreements with regional ASEAN operators",
+    "language": "Malay, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "AITI regulates consumer protections for roaming charges",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a6e"
+    }
+  },
+  {
+    "country": "Bulgaria",
+    "regulatory_body": "Communications Regulation Commission (CRC)",
+    "website": "crc.bg",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Subject to EU Roam Like at Home policy; fair-use rules enforced",
+    "language": "Bulgarian",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Covered under EU law; CRC monitors roaming transparency and misuse",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a6f"
+    }
+  },
+  {
+    "country": "Burkina Faso",
+    "regulatory_body": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+    "website": "arcep.bf",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Part of WAEMU/ECOWAS roaming regulation; free incoming roaming and capped tariffs",
+    "language": "French",
+    "access_method_api_html_pdf_etc": "PDF, HTML",
+    "others": "ARCEP enforces regional roaming regulation; official bulletins published online",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a70"
+    }
+  },
+  {
+    "country": "Burundi",
+    "regulatory_body": "Agence de R\u00e9gulation et de Contr\u00f4le des T\u00e9l\u00e9communications (ARCT)",
+    "website": "arct.gov.bi",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Permanent roaming disallowed",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Visitor roaming \u2264\u202f30\u202fdays; SIM re\u2011register required.",
+    "language": "Kirundi, French",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "French decrees; limited.",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a71"
+    }
+  },
+  {
+    "country": "Cabo Verde",
+    "regulatory_body": "Ag\u00eancia Reguladora Multissectorial da Economia (ARME)",
+    "website": "https://www.arme.cv",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Aligned with ECOWAS free roaming initiative",
+    "language": "Portuguese",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ARME ensures compliance with regional agreements; periodic updates published",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a72"
+    }
+  },
+  {
+    "country": "Central African Republic",
+    "regulatory_body": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et de la Poste (ARCEP\u2011RCA)",
+    "website": "http://www.arcep.cf",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Participates in CEMAC regional telecom alignment; roaming permitted",
+    "language": "French, Sango",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "CEMAC compliance; occasional ARCEP publications",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a73"
+    }
+  },
+  {
+    "country": "Chad",
+    "regulatory_body": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP\u2011Tchad)",
+    "website": "https://www.arcep.td",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; regional pricing caps under CEMAC",
+    "language": "French, Arabic",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Regional CEMAC enforcement; periodic publications",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a74"
+    }
+  },
+  {
+    "country": "Chile",
+    "regulatory_body": "Subsecretar\u00eda de Telecomunicaciones (SUBTEL)",
+    "website": "https://www.subtel.gob.cl",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Free roaming within Mercosur; bilateral no surcharge agreements",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "PDF, HTML",
+    "others": "Regular SUBTEL policy updates; transparent data",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a75"
+    }
+  },
+  {
+    "country": "China",
+    "regulatory_body": "Ministry of Industry and Information Technology (MIIT)",
+    "website": "https://www.miit.gov.cn",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Permanent IoT roaming prohibited",
+    "roaming_details_data_cap_time_limits_licensing_etc": "M2M permanent roaming restricted; consumer roaming permitted",
+    "language": "Chinese",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Strict IoT roaming regulations enforced by MIIT",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a76"
+    }
+  },
+  {
+    "country": "Colombia",
+    "regulatory_body": "Comisi\u00f3n de Regulaci\u00f3n de Comunicaciones (CRC)",
+    "website": "https://www.crcom.gov.co",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Free roaming in Andean Community (CAN); regulated under Decision 854",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "CRC maintains comprehensive roaming info",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a77"
+    }
+  },
+  {
+    "country": "Cyprus",
+    "regulatory_body": "Office of the Commissioner of Electronic Communications & Postal Regulation (OCECPR)",
+    "website": "https://www.ocecpr.org.cy",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU roaming rules enforced; fair use policy applies",
+    "language": "Greek, Turkish, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Full EU compliance; frequent updates",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a78"
+    }
+  },
+  {
+    "country": "Czech Republic",
+    "regulatory_body": "Czech Telecommunication Office (CTU)",
+    "website": "https://www.ctu.cz",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU roaming regulations (Roam Like at Home); fair use policy enforced",
+    "language": "Czech",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Regularly updated by Czech Telecommunication Office (CTU)",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a79"
+    }
+  },
+  {
+    "country": "Denmark",
+    "regulatory_body": "Danish Business Authority (ERST)",
+    "website": "https://danishbusinessauthority.dk",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU roaming applies; standard EU fair-use policies enforced",
+    "language": "Danish, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Fully aligned with EU regulatory framework; consumer info widely available",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a7a"
+    }
+  },
+  {
+    "country": "Djibouti",
+    "regulatory_body": "Ministry of Communication, Posts and Telecommunications",
+    "website": "http://www.ministerecommunication.gouv.dj ",
+    "website_status": "\u26a0\ufe0f Unavailable",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Limited Info Available",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; limited published regulatory details available",
+    "language": "French, Arabic",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Limited online presence; regional roaming mainly via bilateral operator agreements",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a7b"
+    }
+  },
+  {
+    "country": "Dominica",
+    "regulatory_body": "National Telecommunications Regulatory Commission (NTRC)",
+    "website": "https://www.ntrc.dm",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Part of CARICOM free-roaming initiative; regulated reduced tariffs",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "NTRC supports regional CARICOM harmonization",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a7c"
+    }
+  },
+  {
+    "country": "Dominican Republic",
+    "regulatory_body": "Instituto Dominicano de las Telecomunicaciones (INDOTEL)",
+    "website": "https://www.indotel.gob.do",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; regional cooperation for roaming agreements in Latin America",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "INDOTEL regularly publishes regulatory notices on roaming",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a7d"
+    }
+  },
+  {
+    "country": "Ecuador",
+    "regulatory_body": "Agencia de Regulaci\u00f3n y Control de las Telecomunicaciones (ARCOTEL)",
+    "website": "https://www.arcotel.gob.ec",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; Andean Community (CAN) Decision 854 eliminates surcharges regionally",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ARCOTEL ensures regulatory compliance within CAN",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a7e"
+    }
+  },
+  {
+    "country": "Egypt",
+    "regulatory_body": "National Telecommunications Regulatory Authority (NTRA)",
+    "website": "https://www.tra.gov.eg",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; NTRA regulates tariffs and ensures consumer transparency",
+    "language": "Arabic, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Detailed consumer protection regulations enforced by NTRA",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a7f"
+    }
+  },
+  {
+    "country": "El Salvador",
+    "regulatory_body": "Superintendencia General de Electricidad y Telecomunicaciones (SIGET)",
+    "website": "https://www.siget.gob.sv",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; Central American integration via COMTELCA encourages reduced roaming tariffs",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "SIGET provides transparency guidelines; regional integration active",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a80"
+    }
+  },
+  {
+    "country": "Equatorial Guinea",
+    "regulatory_body": "Oficina Reguladora de las Telecomunicaciones (ORTEL)",
+    "website": "https://www.ortelge.gob.gq",
+    "website_status": "\u26a0\ufe0f Unavailable or Offline",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming enabled; ECOWAS not yet implemented; no caps.",
+    "language": "Spanish, French",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Sparse; rely on operator prices.",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a81"
+    }
+  },
+  {
+    "country": "Eritrea",
+    "regulatory_body": "Ministry of Information (no independent telecom regulator)",
+    "website": NaN,
+    "website_status": "\u26a0\ufe0f No official site found",
+    "roaming_allowed_yes_no": "Yes (limited)",
+    "type_of_roaming_prohibition": "Infrastructure / sanctions",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Inbound roaming with few partners; no data roaming.",
+    "language": "Tigrinya, Arabic, English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "No independent regulator.",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a82"
+    }
+  },
+  {
+    "country": "Estonia",
+    "regulatory_body": "Consumer Protection and Technical Regulatory Authority (TTJA)",
+    "website": "https://ttja.ee",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU roaming regulations apply; fair-use policies actively enforced",
+    "language": "Estonian, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Full EU compliance under Consumer Protection and Technical Regulatory Authority (TTJA)",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a83"
+    }
+  },
+  {
+    "country": "Eswatini (Swaziland)",
+    "regulatory_body": "Eswatini Communications Commission (ESCCOM)",
+    "website": "https://www.esccom.org.sz",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; aligned with SADC roaming initiatives for tariff reduction",
+    "language": "English, siSwati",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "ESCCOM participates actively in regional tariff harmonization",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a84"
+    }
+  },
+  {
+    "country": "Ethiopia",
+    "regulatory_body": "Ethiopian Communications Authority (ECA)",
+    "website": "https://eca.et",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Limited international operator agreements",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Limited roaming availability due to state-controlled telecom sector; recent market liberalization improving conditions",
+    "language": "Amharic, English",
+    "access_method_api_html_pdf_etc": "PDF, HTML",
+    "others": "Rapidly evolving sector; check ECA for latest updates",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a85"
+    }
+  },
+  {
+    "country": "Fiji",
+    "regulatory_body": "Telecommunications Authority of Fiji (TAF)",
+    "website": "https://www.taf.org.fj",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; regulated pricing within Pacific regional telecom agreements",
+    "language": "English, Fijian",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "TAF ensures compliance with regional standards and roaming transparency",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a86"
+    }
+  },
+  {
+    "country": "Finland",
+    "regulatory_body": "Finnish Transport and Communications Agency (Traficom)",
+    "website": "https://www.traficom.fi",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU roaming rules (Roam Like at Home) enforced; fair-use limitations apply",
+    "language": "Finnish, Swedish, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Traficom provides comprehensive updates on EU roaming obligations",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a87"
+    }
+  },
+  {
+    "country": "France",
+    "regulatory_body": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+    "website": "https://www.arcep.fr",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU roaming regulations apply; ARCEP monitors compliance, especially fair use",
+    "language": "French, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF, API",
+    "others": "Regularly updated ARCEP resources; highly transparent regulatory framework",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a88"
+    }
+  },
+  {
+    "country": "Gabon",
+    "regulatory_body": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+    "website": "https://www.arcep.ga",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Part of CEMAC roaming initiatives; standard regional tariffs enforced",
+    "language": "French",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ARCEP regulates adherence to CEMAC regional roaming standards",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a89"
+    }
+  },
+  {
+    "country": "Gambia",
+    "regulatory_body": "Public Utilities Regulatory Authority (PURA)",
+    "website": "https://www.pura.gm",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "ECOWAS roaming regulations apply; no surcharge on incoming calls within region",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "PURA publishes intermittent updates; regional cooperation active",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a8a"
+    }
+  },
+  {
+    "country": "Georgia",
+    "regulatory_body": "Communications Commission (ComCom)",
+    "website": "https://comcom.ge",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Tariff SMS alerts; 100\u202f\u20be cut\u2011off rule.",
+    "language": "Georgian",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Quarterly XLS price files.",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a8b"
+    }
+  },
+  {
+    "country": "Germany",
+    "regulatory_body": "Bundesnetzagentur (Federal Network Agency)",
+    "website": "https://www.bundesnetzagentur.de",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU Roam Like at Home enforced; fair-use policy actively monitored",
+    "language": "German, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF, API",
+    "others": "Bundesnetzagentur provides regular and detailed regulatory guidance",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a8c"
+    }
+  },
+  {
+    "country": "Ghana",
+    "regulatory_body": "National Communications Authority (NCA)",
+    "website": "https://nca.org.gh",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Part of ECOWAS roaming regulation; incoming roaming calls free, regional tariff caps apply",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "NCA actively publishes regulatory updates and guidelines",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a8d"
+    }
+  },
+  {
+    "country": "Greece",
+    "regulatory_body": "Hellenic Telecommunications & Post Commission (EETT)",
+    "website": "https://www.eett.gr",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Compliant with EU roaming regulations (Roam Like at Home); fair-use limits enforced",
+    "language": "Greek, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "EETT monitors compliance and consumer rights under EU framework",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a8e"
+    }
+  },
+  {
+    "country": "Grenada",
+    "regulatory_body": "National Telecommunications Regulatory Commission (NTRC)",
+    "website": "https://ntrc.gd",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Participates in CARICOM roaming initiatives; reduced regional roaming tariffs",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "NTRC supports regional CARICOM harmonization",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a8f"
+    }
+  },
+  {
+    "country": "Guatemala",
+    "regulatory_body": "Superintendencia de Telecomunicaciones (SIT)",
+    "website": "https://www.sit.gob.gt",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "COMTELCA region agreements ensure lower roaming rates within Central America",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "SIT actively updates guidelines and transparency measures",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a90"
+    }
+  },
+  {
+    "country": "Guinea",
+    "regulatory_body": "Autorit\u00e9 de R\u00e9gulation des Postes et T\u00e9l\u00e9communications (ARPT)",
+    "website": "https://www.arpt.gov.gn",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Aligned with ECOWAS regional roaming framework; incoming roaming typically free",
+    "language": "French",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ARPT regularly communicates regional roaming regulations",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a91"
+    }
+  },
+  {
+    "country": "Guinea-Bissau",
+    "regulatory_body": "Autoridade Reguladora Nacional das Tecnologias de Informa\u00e7\u00e3o e Comunica\u00e7\u00e3o (ARN-TIC)",
+    "website": "http://www.arn.gw",
+    "website_status": "\u26a0\ufe0f Unavailable",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "ECOWAS Free Roaming caps.",
+    "language": "Portuguese",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Site unstable; ad\u2011hoc updates.",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a92"
+    }
+  },
+  {
+    "country": "Guyana",
+    "regulatory_body": "Public Utilities Commission (PUC) & Telecommunications Agency",
+    "website": "https://www.puc.org.gy",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "CARICOM roaming agreements active; regional reduced roaming tariffs",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "PUC regulates according to CARICOM standards",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a93"
+    }
+  },
+  {
+    "country": "Haiti",
+    "regulatory_body": "Conseil National des T\u00e9l\u00e9communications (CONATEL)",
+    "website": "https://www.conatel.gouv.ht",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Limited Information Available",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted, primarily regulated through operator agreements",
+    "language": "French, Haitian Creole",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "CONATEL provides limited public details; check operator terms",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a94"
+    }
+  },
+  {
+    "country": "Honduras",
+    "regulatory_body": "Comisi\u00f3n Nacional de Telecomunicaciones (CONATEL)",
+    "website": "https://www.conatel.gob.hn",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; regional roaming policies under COMTELCA agreement",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "CONATEL regularly issues regional roaming guidelines",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a95"
+    }
+  },
+  {
+    "country": "Hungary",
+    "regulatory_body": "National Media and Infocommunications Authority (NMHH)",
+    "website": "https://english.nmhh.hu",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU roaming rules enforced; Roam Like at Home with fair-use policies",
+    "language": "Hungarian, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "NMHH ensures compliance and transparency according to EU standards",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a96"
+    }
+  },
+  {
+    "country": "Iceland",
+    "regulatory_body": "Electronic Communications Office of Iceland (ECOI/Post- og fjarskiptastofnun - PFS)",
+    "website": "https://www.pfs.is",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EEA/EU roaming rules applied; fair-use policies enforced",
+    "language": "Icelandic, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "PFS ensures compliance with EEA roaming standards",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a97"
+    }
+  },
+  {
+    "country": "India",
+    "regulatory_body": "Telecom Regulatory Authority of India (TRAI)",
+    "website": "https://www.trai.gov.in",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "IoT/M2M Roaming Restricted",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Consumer roaming allowed; IoT/M2M permanent roaming strictly regulated",
+    "language": "Hindi, English",
+    "access_method_api_html_pdf_etc": "PDF, HTML",
+    "others": "TRAI actively monitors and publishes roaming guidelines",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a98"
+    }
+  },
+  {
+    "country": "Indonesia",
+    "regulatory_body": "Directorate General of Posts and Informatics (Kominfo)",
+    "website": "https://www.kominfo.go.id",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; ASEAN regional roaming cooperation active",
+    "language": "Indonesian, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Kominfo maintains detailed guidelines and regional roaming collaboration",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a99"
+    }
+  },
+  {
+    "country": "Iran",
+    "regulatory_body": "Communications Regulatory Authority (CRA)",
+    "website": "https://www.cra.ir",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Restricted for certain operators",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Standard roaming permitted, but restrictions apply due to international sanctions",
+    "language": "Persian",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "CRA regularly updates roaming availability affected by sanctions",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a9a"
+    }
+  },
+  {
+    "country": "Iraq",
+    "regulatory_body": "Communications and Media Commission (CMC)",
+    "website": "https://cmc.iq",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Limited roaming agreements",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; limited by operator agreements and infrastructure issues",
+    "language": "Arabic, Kurdish",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "CMC oversight limited; operator-dependent roaming",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a9b"
+    }
+  },
+  {
+    "country": "Ireland",
+    "regulatory_body": "Commission for Communications Regulation (ComReg)",
+    "website": "https://www.comreg.ie",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU Roaming (Roam Like at Home) fully enforced; fair-use policies apply",
+    "language": "English, Irish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ComReg actively ensures compliance with EU roaming standards",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a9c"
+    }
+  },
+  {
+    "country": "Israel",
+    "regulatory_body": "Ministry of Communications",
+    "website": "https://www.gov.il/en/departments/ministry_of_communications",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; regulated by Ministry of Communications, no specific caps mandated",
+    "language": "Hebrew, Arabic, English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Ministry regularly updates regulatory standards",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a9d"
+    }
+  },
+  {
+    "country": "Italy",
+    "regulatory_body": "Autorit\u00e0 per le Garanzie nelle Comunicazioni (AGCOM)",
+    "website": "https://www.agcom.it",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU roaming rules (Roam Like at Home); strict enforcement of fair-use policy",
+    "language": "Italian, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "AGCOM provides comprehensive and frequent updates",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a9e"
+    }
+  },
+  {
+    "country": "Jamaica",
+    "regulatory_body": "Office of Utilities Regulation (OUR)",
+    "website": "https://www.our.org.jm",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Aligned with CARICOM regional roaming initiatives; reduced roaming rates",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "OUR provides active updates on regional roaming regulations",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08a9f"
+    }
+  },
+  {
+    "country": "Japan",
+    "regulatory_body": "Ministry of Internal Affairs and Communications (MIC)",
+    "website": "https://www.soumu.go.jp",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "No permanent IoT roaming",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Standard roaming permitted; strict regulations on permanent IoT/M2M roaming",
+    "language": "Japanese, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "MIC closely monitors IoT roaming practices",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aa0"
+    }
+  },
+  {
+    "country": "Jordan",
+    "regulatory_body": "Telecommunications Regulatory Commission (TRC)",
+    "website": "https://www.trc.gov.jo",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; regional agreements through Arab Regulators Network (AREGNET)",
+    "language": "Arabic, English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "TRC regularly updates guidelines",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aa1"
+    }
+  },
+  {
+    "country": "Kazakhstan",
+    "regulatory_body": "Ministry of Digital Development, Innovation and Aerospace Industry",
+    "website": "https://www.gov.kz/memleket/entities/mdai",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Aligned with EAEU roaming agreements; progressive tariff reductions",
+    "language": "Kazakh, Russian",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Ministry provides regulatory guidance, frequent updates available",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aa2"
+    }
+  },
+  {
+    "country": "Kenya",
+    "regulatory_body": "Communications Authority of Kenya (CA)",
+    "website": "https://ca.go.ke",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "East African Community (EAC) One Network Area applies; reduced rates regionally",
+    "language": "English, Swahili",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "CA Kenya actively enforces regional roaming standards",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aa3"
+    }
+  },
+  {
+    "country": "Kiribati",
+    "regulatory_body": "Ministry of Information, Communications, Transport and Tourism Development",
+    "website": "http://www.mict.gov.ki",
+    "website_status": "\u26a0\ufe0f Unavailable",
+    "roaming_allowed_yes_no": "Limited",
+    "type_of_roaming_prohibition": "Infrastructure-dependent",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming limited to satellite and regional mobile providers; very limited documentation",
+    "language": "English, Gilbertese",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "No independent telecom authority; policies tied to ministry",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aa4"
+    }
+  },
+  {
+    "country": "Korea, North",
+    "regulatory_body": "Ministry of Post and Telecommunications (official site not publicly accessible)",
+    "website": NaN,
+    "website_status": "\u26a0\ufe0f No public site",
+    "roaming_allowed_yes_no": "No",
+    "type_of_roaming_prohibition": "Consumer roaming banned",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Only local visitor SIM; diplomats have exceptions.",
+    "language": "Korean",
+    "access_method_api_html_pdf_etc": NaN,
+    "others": "No public regulator site.",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aa5"
+    }
+  },
+  {
+    "country": "Korea, South",
+    "regulatory_body": "Korea Communications Commission (KCC)",
+    "website": "https://www.kcc.go.kr",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "IoT roaming regulated",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Consumer roaming allowed; IoT roaming must be licensed",
+    "language": "Korean, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "KCC actively regulates permanent roaming scenarios",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aa6"
+    }
+  },
+  {
+    "country": "Kuwait",
+    "regulatory_body": "Communication and Information Technology Regulatory Authority (CITRA)",
+    "website": "https://www.citra.gov.kw",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "GCC roaming regulation in place; capped regional tariffs",
+    "language": "Arabic, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "CITRA aligns with GCC roaming regulation strategy",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aa7"
+    }
+  },
+  {
+    "country": "Kyrgyzstan",
+    "regulatory_body": "State Communications Agency (SCA)",
+    "website": "https://nas.gov.kg",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Aligned with EAEU regional roaming framework; fair-use and capped charges",
+    "language": "Kyrgyz, Russian",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Updates through digital development ministry; EAEU documentation applies",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aa8"
+    }
+  },
+  {
+    "country": "Laos",
+    "regulatory_body": "Ministry of Technology and Communications",
+    "website": "https://www.mtc.gov.la",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Limited operator agreements",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming available through major operators; limited regulatory guidance",
+    "language": "Lao, English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "MTC oversees telecom but provides minimal public roaming info",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aa9"
+    }
+  },
+  {
+    "country": "Latvia",
+    "regulatory_body": "Public Utilities Commission (SPRK)",
+    "website": "https://www.sprk.gov.lv",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU roaming regulation enforced; Roam Like at Home applies",
+    "language": "Latvian, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "SPRK enforces roaming fairness and transparency rules",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aaa"
+    }
+  },
+  {
+    "country": "Lebanon",
+    "regulatory_body": "Telecommunications Regulatory Authority (TRA)",
+    "website": "https://www.tra.gov.lb",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Operator-level limitations",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; high cost due to lack of competition",
+    "language": "Arabic, French, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "TRA provides limited pricing control; market concentration affects terms",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aab"
+    }
+  },
+  {
+    "country": "Lesotho",
+    "regulatory_body": "Lesotho Communications Authority (LCA)",
+    "website": "https://www.lca.org.ls",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Part of SADC roaming framework; roaming agreements in place",
+    "language": "English, Sesotho",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "LCA coordinates with regional roaming projects",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aac"
+    }
+  },
+  {
+    "country": "Liberia",
+    "regulatory_body": "Liberia Telecommunications Authority (LTA)",
+    "website": "https://www.lta.gov.lr",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Aligned with ECOWAS; free incoming calls and capped pricing",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "LTA publishes roaming enforcement circulars",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aad"
+    }
+  },
+  {
+    "country": "Libya",
+    "regulatory_body": "General Authority for Communications and Informatics (GACI)",
+    "website": "https://www.gaci.ly",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Government approval required",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted but subject to political conditions",
+    "language": "Arabic",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "GACI imposes regulatory controls based on security policy",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aae"
+    }
+  },
+  {
+    "country": "Liechtenstein",
+    "regulatory_body": "Office for Communications (AK - Amt f\u00fcr Kommunikation)",
+    "website": "https://www.llv.li",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EEA roaming rules apply; treated similarly to EU member states",
+    "language": "German",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "OFCOM enforces EEA-consistent regulation",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aaf"
+    }
+  },
+  {
+    "country": "Lithuania",
+    "regulatory_body": "Communications Regulatory Authority (RRT)",
+    "website": "https://www.rrt.lt",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU Roam Like at Home applies; fair-use and transparency rules",
+    "language": "Lithuanian, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "RRT ensures strict compliance and public reporting",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ab0"
+    }
+  },
+  {
+    "country": "Luxembourg",
+    "regulatory_body": "Institut Luxembourgeois de R\u00e9gulation (ILR)",
+    "website": "https://www.ilr.lu",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU regulations enforced; no surcharges within EU",
+    "language": "Luxembourgish, French, German",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ILR aligns closely with EU telecom framework",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ab1"
+    }
+  },
+  {
+    "country": "Madagascar",
+    "regulatory_body": "Autorit\u00e9 de R\u00e9gulation des Technologies de Communication (ARTEC)",
+    "website": "https://www.artec.mg",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; regional cooperation through SADC",
+    "language": "French, Malagasy",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ARTEC enforces compliance with regional SADC roaming initiatives",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ab2"
+    }
+  },
+  {
+    "country": "Malawi",
+    "regulatory_body": "Malawi Communications Regulatory Authority (MACRA)",
+    "website": "https://www.macra.org.mw",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Standard roaming rules apply; part of SADC regional telecom harmonization",
+    "language": "English, Chichewa",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "MACRA involved in SADC roaming policy implementation",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ab3"
+    }
+  },
+  {
+    "country": "Malaysia",
+    "regulatory_body": "Malaysian Communications and Multimedia Commission (MCMC)",
+    "website": "https://www.mcmc.gov.my",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; consumer-focused transparency regulations enforced",
+    "language": "Malay, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "MCMC requires operators to notify users of roaming charges",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ab4"
+    }
+  },
+  {
+    "country": "Maldives",
+    "regulatory_body": "Communications Authority of Maldives (CAM)",
+    "website": "https://www.cam.gov.mv",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; regulated at operator level with general oversight",
+    "language": "Dhivehi, English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "CAM monitors consumer services; roaming terms vary by operator",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ab5"
+    }
+  },
+  {
+    "country": "Mali",
+    "regulatory_body": "Autorit\u00e9 Malienne de R\u00e9gulation des T\u00e9l\u00e9communications et des Postes (AMRTP)",
+    "website": "https://www.amrtp.ml",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming regulated via WAEMU/ECOWAS region; capped intra-region roaming",
+    "language": "French",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "AMRTP publishes occasional roaming updates aligned with ECOWAS",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ab6"
+    }
+  },
+  {
+    "country": "Malta",
+    "regulatory_body": "Malta Communications Authority (MCA)",
+    "website": "https://www.mca.org.mt",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU Roam Like at Home applies; regulated fair-use enforcement",
+    "language": "Maltese, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "MCA ensures EU regulatory compliance and provides regular updates",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ab7"
+    }
+  },
+  {
+    "country": "Marshall Islands",
+    "regulatory_body": "National Telecommunications Authority (NTA)",
+    "website": "https://www.mintamar.net",
+    "website_status": "\u26a0\ufe0f Partially accessible",
+    "roaming_allowed_yes_no": "Limited",
+    "type_of_roaming_prohibition": "Infrastructure-dependent",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming possible via regional partnerships or satellite; minimal regulation published",
+    "language": "Marshallese, English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Regulatory details sparse; governed by NTA under Ministry",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ab8"
+    }
+  },
+  {
+    "country": "Mauritania",
+    "regulatory_body": "Autorit\u00e9 de R\u00e9gulation (ARE)",
+    "website": "https://www.are.mr",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "ECOWAS regional roaming norms apply; free incoming and capped intra-region rates",
+    "language": "Arabic, French",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ARE involved in regional roaming coordination",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ab9"
+    }
+  },
+  {
+    "country": "Mauritius",
+    "regulatory_body": "Information and Communication Technologies Authority (ICTA)",
+    "website": "https://www.icta.mu",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; regulated by ICTA; pricing varies by operator",
+    "language": "English, French",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ICTA publishes periodic reports; operators must disclose roaming conditions",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aba"
+    }
+  },
+  {
+    "country": "Mexico",
+    "regulatory_body": "Instituto Federal de Telecomunicaciones (IFT)",
+    "website": "https://www.ift.org.mx",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; free roaming with USA and Canada under USMCA",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "IFT monitors roaming regulations under USMCA obligations",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08abb"
+    }
+  },
+  {
+    "country": "Micronesia",
+    "regulatory_body": "Department of Transportation, Communications & Infrastructure",
+    "website": "https://www.tci.gov.fm",
+    "website_status": "\u26a0\ufe0f Unavailable",
+    "roaming_allowed_yes_no": "Limited",
+    "type_of_roaming_prohibition": "Infrastructure-dependent",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Only available through satellite or single-operator roaming partnerships",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Roaming regulation minimal; operator-led agreements",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08abc"
+    }
+  },
+  {
+    "country": "Moldova",
+    "regulatory_body": "National Regulatory Agency for Electronic Communications and Information Technology (ANRCETI)",
+    "website": "https://en.anrceti.md",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; joined EU regional free-roaming area in 2023",
+    "language": "Romanian",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ANRCETI coordinates with EU bodies; regular roaming bulletins",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08abd"
+    }
+  },
+  {
+    "country": "Monaco",
+    "regulatory_body": "Direction des Communications \u00c9lectroniques",
+    "website": "https://gouv.mc",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; follows EU Roam Like at Home through agreements with France",
+    "language": "French",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Regulated in cooperation with ARCEP France",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08abe"
+    }
+  },
+  {
+    "country": "Mongolia",
+    "regulatory_body": "Communications Regulatory Commission (CRC)",
+    "website": "https://www.crc.gov.mn",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; licensed under CRC Mongolia",
+    "language": "Mongolian",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "CRC publishes regulatory and licensing conditions",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08abf"
+    }
+  },
+  {
+    "country": "Montenegro",
+    "regulatory_body": "Agency for Electronic Communications and Postal Services (EKIP)",
+    "website": "https://www.ekip.me",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Western Balkans Roaming Agreement; regional roaming without surcharge",
+    "language": "Montenegrin",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "EKIP ensures compliance with regional and EU-aligned policies",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ac0"
+    }
+  },
+  {
+    "country": "Morocco",
+    "regulatory_body": "Agence Nationale de R\u00e9glementation des T\u00e9l\u00e9communications (ANRT)",
+    "website": "https://www.anrt.ma",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Consumer transparency limits",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; ANRT mandates clear consumer notifications",
+    "language": "Arabic, French",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ANRT publishes transparency and tariff rules",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ac1"
+    }
+  },
+  {
+    "country": "Mozambique",
+    "regulatory_body": "Instituto Nacional das Comunica\u00e7\u00f5es de Mo\u00e7ambique (INCM)",
+    "website": "https://www.incm.gov.mz",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; member of SADC; regional roaming policy applies",
+    "language": "Portuguese",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "INCM implements SADC regional telecom initiatives",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ac2"
+    }
+  },
+  {
+    "country": "Myanmar",
+    "regulatory_body": "Posts and Telecommunications Department (PTD), Ministry of Transport and Communications",
+    "website": "https://www.motc.gov.mm",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Sanctions-dependent",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted but heavily influenced by international sanctions and political instability",
+    "language": "Burmese",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Regulated by Ministry of Transport and Communications; limited external data",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ac3"
+    }
+  },
+  {
+    "country": "Namibia",
+    "regulatory_body": "Communications Regulatory Authority of Namibia (CRAN)",
+    "website": "https://www.cran.na",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "SADC regional roaming agreements apply; roaming permitted and regionally capped",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "CRAN ensures adherence to regional roaming norms",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ac4"
+    }
+  },
+  {
+    "country": "Nauru",
+    "regulatory_body": "Department of ICT (no independent telecom regulatory authority)",
+    "website": "No dedicated site",
+    "website_status": "\u26a0\ufe0f Unavailable",
+    "roaming_allowed_yes_no": "Limited",
+    "type_of_roaming_prohibition": "Infrastructure dependent",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming limited; operator-level agreements, mainly via satellite",
+    "language": "Nauruan, English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "No dedicated telecom authority; roaming limited and provider-based",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ac5"
+    }
+  },
+  {
+    "country": "Nepal",
+    "regulatory_body": "Nepal Telecommunications Authority (NTA)",
+    "website": "https://www.nta.gov.np",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "IoT roaming restricted",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Standard consumer roaming permitted; permanent roaming for M2M/IoT not allowed",
+    "language": "Nepali, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "NTA regulates roaming use by license; regular updates available",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ac6"
+    }
+  },
+  {
+    "country": "Netherlands",
+    "regulatory_body": "Authority for Consumers and Markets (ACM)",
+    "website": "https://www.acm.nl",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roam Like at Home (EU); no surcharges within EU and EEA",
+    "language": "Dutch, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF, API",
+    "others": "ACM and Agentschap Telecom enforce EU roaming and transparency rules",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ac7"
+    }
+  },
+  {
+    "country": "New Zealand",
+    "regulatory_body": "Commerce Commission \u2013 Telecommunications Division",
+    "website": "https://comcom.govt.nz",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "No roaming caps; consumer protections in place for transparency",
+    "language": "English, M\u0101ori",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Commerce Commission enforces operator disclosure obligations",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ac8"
+    }
+  },
+  {
+    "country": "Nicaragua",
+    "regulatory_body": "Instituto Nicarag\u00fcense de Telecomunicaciones y Correos (TELCOR)",
+    "website": "https://www.telcor.gob.ni",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "COMTELCA region cooperation; capped roaming tariffs regionally",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "TELCOR aligned with COMTELCA roaming agreements",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ac9"
+    }
+  },
+  {
+    "country": "Niger",
+    "regulatory_body": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et de la Poste (ARCEP)",
+    "website": "https://www.arcep.ne",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "ECOWAS roaming rules apply; incoming calls free, regional roaming capped",
+    "language": "French",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ARCEP enforces regional roaming norms",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aca"
+    }
+  },
+  {
+    "country": "Nigeria",
+    "regulatory_body": "Nigerian Communications Commission (NCC)",
+    "website": "https://www.ncc.gov.ng",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; ECOWAS framework adopted; operators must publish terms",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "NCC publishes roaming conditions and consumer education materials",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08acb"
+    }
+  },
+  {
+    "country": "North Macedonia",
+    "regulatory_body": "Agency for Electronic Communications (AEC)",
+    "website": "https://www.aek.mk",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Western Balkans Roaming Agreement applies; no surcharge regional roaming",
+    "language": "Macedonian, Albanian",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "AEC ensures compliance with CEFTA region and EU-aligned frameworks",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08acc"
+    }
+  },
+  {
+    "country": "Norway",
+    "regulatory_body": "Norwegian Communications Authority (Nkom)",
+    "website": "https://www.nkom.no",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EEA country, subject to EU Roam Like at Home policy; fair-use rules enforced",
+    "language": "Norwegian, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF, API",
+    "others": "Nkom implements EU-compliant roaming policies",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08acd"
+    }
+  },
+  {
+    "country": "Oman",
+    "regulatory_body": "Telecommunications Regulatory Authority (TRA Oman)",
+    "website": "https://www.tra.gov.om",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "GCC roaming agreement implemented; capped prices for regional roaming",
+    "language": "Arabic, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "TRA Oman enforces transparency and publishes roaming regulations",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ace"
+    }
+  },
+  {
+    "country": "Pakistan",
+    "regulatory_body": "Pakistan Telecommunication Authority (PTA)",
+    "website": "https://www.pta.gov.pk",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "IoT/M2M permanent roaming prohibited",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Consumer roaming permitted; IoT/M2M roaming must be licensed and locally terminated",
+    "language": "Urdu, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "PTA actively monitors international roaming and IoT usage rules",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08acf"
+    }
+  },
+  {
+    "country": "Palau",
+    "regulatory_body": "Bureau of Communications, Ministry of Public Infrastructure and Industries",
+    "website": "No dedicated telecom site",
+    "website_status": "\u26a0\ufe0f Unavailable",
+    "roaming_allowed_yes_no": "Limited",
+    "type_of_roaming_prohibition": "Infrastructure-limited",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming supported via regional satellite carriers and single operator agreements",
+    "language": "English, Palauan",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Limited published regulatory data; operator-driven policies",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ad0"
+    }
+  },
+  {
+    "country": "Panama",
+    "regulatory_body": "Autoridad Nacional de los Servicios P\u00fablicos (ASEP)",
+    "website": "https://www.asep.gob.pa",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed under COMTELCA agreement; transparency obligations enforced",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ASEP oversees implementation and consumer disclosures",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ad1"
+    }
+  },
+  {
+    "country": "Papua New Guinea",
+    "regulatory_body": "National Information and Communications Technology Authority (NICTA)",
+    "website": "https://www.nicta.gov.pg",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Infrastructure-limited",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming possible but only via Digicel; limited to certain partners",
+    "language": "English, Tok Pisin, Hiri Motu",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "NICTA allows operator-led roaming frameworks",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ad2"
+    }
+  },
+  {
+    "country": "Paraguay",
+    "regulatory_body": "Comisi\u00f3n Nacional de Telecomunicaciones (CONATEL)",
+    "website": "https://www.conatel.gov.py",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Mercosur roaming treaties in effect; no surcharge within member states",
+    "language": "Spanish, Guaran\u00ed",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "CONATEL actively enforces regional roaming guidelines",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ad3"
+    }
+  },
+  {
+    "country": "Peru",
+    "regulatory_body": "Organismo Supervisor de Inversi\u00f3n Privada en Telecomunicaciones (OSIPTEL)",
+    "website": "https://www.osiptel.gob.pe",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "CAN Decision 854 applies; no roaming surcharge within Andean Community",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "OSIPTEL enforces roaming via regional and national policies",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ad4"
+    }
+  },
+  {
+    "country": "Philippines",
+    "regulatory_body": "National Telecommunications Commission (NTC)",
+    "website": "https://ntc.gov.ph",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; operators required to provide clear terms and pricing",
+    "language": "Filipino, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "NTC oversees enforcement of transparency requirements for roaming",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ad5"
+    }
+  },
+  {
+    "country": "Poland",
+    "regulatory_body": "Office of Electronic Communications (UKE)",
+    "website": "https://www.uke.gov.pl",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU Roam Like at Home; fair-use policy and no roaming surcharges in EU/EEA",
+    "language": "Polish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "UKE regulates compliance with EU roaming policies",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ad6"
+    }
+  },
+  {
+    "country": "Portugal",
+    "regulatory_body": "Autoridade Nacional de Comunica\u00e7\u00f5es (ANACOM)",
+    "website": "https://www.anacom.pt",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU Roam Like at Home policy enforced; no surcharges in EU zone",
+    "language": "Portuguese",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ANACOM ensures compliance and updates on EU roaming rules",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ad7"
+    }
+  },
+  {
+    "country": "Qatar",
+    "regulatory_body": "Communications Regulatory Authority (CRA)",
+    "website": "https://www.cra.gov.qa",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "GCC roaming agreement implemented; capped charges regionally",
+    "language": "Arabic, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "CRA Qatar publishes regular roaming regulation bulletins",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ad8"
+    }
+  },
+  {
+    "country": "Romania",
+    "regulatory_body": "National Authority for Management and Regulation in Communications (ANCOM)",
+    "website": "https://www.ancom.ro",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU Roaming applies; no surcharges under Roam Like at Home",
+    "language": "Romanian",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ANCOM monitors and enforces EU roaming regulations",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ad9"
+    }
+  },
+  {
+    "country": "Russia",
+    "regulatory_body": "Ministry of Digital Development, Communications and Mass Media",
+    "website": "https://digital.gov.ru",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Permanent roaming discouraged",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Consumer roaming allowed; permanent roaming (IoT) restricted",
+    "language": "Russian",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Roskomnadzor enforces SIM usage compliance",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ada"
+    }
+  },
+  {
+    "country": "Rwanda",
+    "regulatory_body": "Rwanda Utilities Regulatory Authority (RURA)",
+    "website": "https://www.rura.rw",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Member of One Network Area (EAC); free incoming and capped roaming",
+    "language": "Kinyarwanda, English, French",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "RURA enforces regional roaming standards",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08adb"
+    }
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "regulatory_body": "National Telecommunications Regulatory Commission (NTRC)",
+    "website": "https://www.ntrc.kn",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "CARICOM roaming reform implemented; capped incoming and outgoing calls",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "NTRC oversees adherence to CARICOM roaming agreements",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08adc"
+    }
+  },
+  {
+    "country": "Saint Lucia",
+    "regulatory_body": "National Telecommunications Regulatory Commission (NTRC)",
+    "website": "https://www.ntrcslu.lc",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Covered under CARICOM free roaming; no surcharges regionally",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "NTRC ensures regional roaming coordination and compliance",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08add"
+    }
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "regulatory_body": "National Telecommunications Regulatory Commission (NTRC)",
+    "website": "https://www.ntrc.vc",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "CARICOM agreement in place; roaming surcharges removed in region",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "NTRC enforces CARICOM-based roaming transparency",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ade"
+    }
+  },
+  {
+    "country": "Samoa",
+    "regulatory_body": "Office of the Regulator",
+    "website": "https://www.regulator.gov.ws",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Limited by infrastructure",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Limited operator-based roaming; regional agreements under development",
+    "language": "Samoan, English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Regulated by Ministry of Communications; limited data online",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08adf"
+    }
+  },
+  {
+    "country": "San Marino",
+    "regulatory_body": "Authority for Communications (Authority Garante per le Comunicazioni)",
+    "website": "https://www.agcom.sm",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; aligned with Italian telecom providers and EU rules",
+    "language": "Italian",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Policies mirror Italy/EU agreements; roaming transparency mandated",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ae0"
+    }
+  },
+  {
+    "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "regulatory_body": "Autoridade Geral de Regula\u00e7\u00e3o (AGER)",
+    "website": "http://www.ager.st",
+    "website_status": "\u26a0\ufe0f Unavailable",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Operator-specific agreements",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted through bilateral operator arrangements; no public regulator data",
+    "language": "Portuguese",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "No centralized authority; operator transparency required",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ae1"
+    }
+  },
+  {
+    "country": "Saudi Arabia",
+    "regulatory_body": "Communications, Space and Technology Commission (CST, formerly CITC)",
+    "website": "https://www.cst.gov.sa",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "GCC regional roaming rates apply; capped regional surcharges",
+    "language": "Arabic, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "CITC (now CST) oversees fair use, transparency, and regional harmonization",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ae2"
+    }
+  },
+  {
+    "country": "Senegal",
+    "regulatory_body": "Autorit\u00e9 de R\u00e9gulation des T\u00e9l\u00e9communications et des Postes (ARTP)",
+    "website": "https://www.artp.sn",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "ECOWAS roaming rules apply; incoming calls free, capped regional roaming",
+    "language": "French",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ARTP enforces regional telecom harmonization for roaming",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ae3"
+    }
+  },
+  {
+    "country": "Serbia",
+    "regulatory_body": "Regulatory Agency for Electronic Communications and Postal Services (RATEL)",
+    "website": "https://www.ratel.rs",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Western Balkans Roaming Agreement applies; no surcharge for regional roaming",
+    "language": "Serbian",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "RATEL ensures regional and bilateral roaming enforcement",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ae4"
+    }
+  },
+  {
+    "country": "Seychelles",
+    "regulatory_body": "Department of Information Communications Technology (DICT)",
+    "website": "http://www.ict.gov.sc",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; regulated at operator level",
+    "language": "English, French, Seychellois Creole",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Department of ICT oversees telecom operations; limited public policy",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ae5"
+    }
+  },
+  {
+    "country": "Sierra Leone",
+    "regulatory_body": "National Telecommunications Commission (NATCOM)",
+    "website": "https://www.natcom.gov.sl",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Aligned with ECOWAS roaming agreement; capped rates, free incoming",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "NATCOM publishes ECOWAS-compliant roaming conditions",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ae6"
+    }
+  },
+  {
+    "country": "Singapore",
+    "regulatory_body": "Infocomm Media Development Authority (IMDA)",
+    "website": "https://www.imda.gov.sg",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; IMDA mandates transparent billing and user notifications",
+    "language": "English, Malay, Mandarin, Tamil",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "IMDA publishes roaming advisory documents for consumers",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ae7"
+    }
+  },
+  {
+    "country": "Slovakia",
+    "regulatory_body": "Regulatory Authority for Electronic Communications and Postal Services (R\u00da)",
+    "website": "https://www.teleoff.gov.sk",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU Roaming (Roam Like at Home) enforced; no surcharges in EU/EEA",
+    "language": "Slovak",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "R\u00da SR regulates and ensures compliance with EU roaming rules",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ae8"
+    }
+  },
+  {
+    "country": "Slovenia",
+    "regulatory_body": "Agency for Communication Networks and Services (AKOS)",
+    "website": "https://www.akos-rs.si",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU Roaming enforced; fair-use limits apply under EU regulations",
+    "language": "Slovene",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "AKOS enforces EU-based roaming standards and transparency",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08ae9"
+    }
+  },
+  {
+    "country": "Solomon Islands",
+    "regulatory_body": "Telecommunications Commission of Solomon Islands (TCSI)",
+    "website": "https://www.tcsi.org.sb",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Limited",
+    "type_of_roaming_prohibition": "Infrastructure-limited",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming available via operator agreements or satellite",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "TCISP provides limited oversight; roaming subject to coverage",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aea"
+    }
+  },
+  {
+    "country": "Somalia",
+    "regulatory_body": "National Communications Authority (NCA)",
+    "website": "https://www.nca.gov.so",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Unregulated",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted based on operator agreements; no central regulator",
+    "language": "Somali, Arabic",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Roaming services provided through regional partnerships; limited formal regulation",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aeb"
+    }
+  },
+  {
+    "country": "South Africa",
+    "regulatory_body": "Independent Communications Authority of South Africa (ICASA)",
+    "website": "https://www.icasa.org.za",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; SADC roaming project reduces intra-regional tariffs",
+    "language": "English, Afrikaans, Zulu, Xhosa and others",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ICASA monitors roaming practices and ensures operator compliance",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aec"
+    }
+  },
+  {
+    "country": "South Sudan",
+    "regulatory_body": "National Communication Authority (NCA)",
+    "website": "https://www.nca.gov.ss",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Unregulated",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted under operator agreements; regional One Network Area inclusion expected",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Roaming subject to bilateral agreements; regulator developing framework",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aed"
+    }
+  },
+  {
+    "country": "Spain",
+    "regulatory_body": "Comisi\u00f3n Nacional de los Mercados y la Competencia (CNMC)",
+    "website": "https://www.cnmc.es",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU Roam Like at Home applies; no surcharge in EU/EEA",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "CNMC and SETELECO enforce EU roaming and fair-use compliance",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aee"
+    }
+  },
+  {
+    "country": "Sri Lanka",
+    "regulatory_body": "Telecommunications Regulatory Commission of Sri Lanka (TRCSL)",
+    "website": "https://www.trc.gov.lk",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; TRCSL mandates transparency on charges and licensing",
+    "language": "Sinhala, Tamil, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "TRCSL publishes roaming guidelines and tariffs periodically",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aef"
+    }
+  },
+  {
+    "country": "Sudan",
+    "regulatory_body": "Telecommunications and Post Regulatory Authority (TPRA)",
+    "website": "https://www.tpra.gov.sd",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Limited regulation",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed via operator agreements; limited transparency or public rules",
+    "language": "Arabic, English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Telecommunications and Post Regulatory Authority provides minimal public documentation",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08af0"
+    }
+  },
+  {
+    "country": "Suriname",
+    "regulatory_body": "Telecommunications Authority Suriname (TAS)",
+    "website": "https://www.tas.sr",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; operator disclosure required",
+    "language": "Dutch",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "TAS monitors roaming policy enforcement at operator level",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08af1"
+    }
+  },
+  {
+    "country": "Sweden",
+    "regulatory_body": "Swedish Post and Telecom Authority (PTS)",
+    "website": "https://www.pts.se",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EU Roaming applies; no surcharges within EU/EEA",
+    "language": "Swedish, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF, API",
+    "others": "PTS provides roaming regulation, monitoring and fair-use enforcement",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08af2"
+    }
+  },
+  {
+    "country": "Switzerland",
+    "regulatory_body": "Federal Office of Communications (OFCOM/BAKOM)",
+    "website": "https://www.bakom.admin.ch",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Consumer-focused price caps",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Not in EU; bilateral agreements and regulated maximum rates apply",
+    "language": "German, French, Italian, Romansh",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "BAKOM (OFCOM) publishes annual telecom and roaming market reports",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08af3"
+    }
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "regulatory_body": "Syrian Telecommunications Regulatory Authority (SYTRA)",
+    "website": "https://www.sytra.sy",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Sanction-limited",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming possible only through select operator agreements; impacted by sanctions",
+    "language": "Arabic",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Operator-based roaming with high costs; regulator provides minimal updates",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08af4"
+    }
+  },
+  {
+    "country": "Taiwan",
+    "regulatory_body": "National Communications Commission (NCC)",
+    "website": "https://www.ncc.gov.tw",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "None (IoT licensed after\u202f60\u202fdays)",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Fair\u2011use; auto suspend at NT$3000 unless opt\u2011in.",
+    "language": "Chinese",
+    "access_method_api_html_pdf_etc": "HTML, PDF, API",
+    "others": "JSON tariff feeds available.",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08af5"
+    }
+  },
+  {
+    "country": "Tajikistan",
+    "regulatory_body": "Communications Service under the Government of Tajikistan",
+    "website": "https://khirad.tj",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "No permanent roaming for IoT",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Consumer roaming allowed; M2M/IoT roaming restricted",
+    "language": "Tajik, Russian",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Communications Service regulates roaming for consumer and enterprise services",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08af6"
+    }
+  },
+  {
+    "country": "Tanzania",
+    "regulatory_body": "Tanzania Communications Regulatory Authority (TCRA)",
+    "website": "https://www.tcra.go.tz",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "EAC One\u2011Network\u2011Area caps (e.g. US$0.03/MB).",
+    "language": "Swahili, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Quarterly English PDFs.",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08af7"
+    }
+  },
+  {
+    "country": "Thailand",
+    "regulatory_body": "National Broadcasting and Telecommunications Commission (NBTC)",
+    "website": "https://www.nbtc.go.th",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; NBTC mandates service transparency and user notification",
+    "language": "Thai, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "NBTC enforces public awareness and licensing disclosures",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08af8"
+    }
+  },
+  {
+    "country": "Timor-Leste",
+    "regulatory_body": "National Communications Authority (ANC)",
+    "website": "https://www.anc.tl",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Limited",
+    "type_of_roaming_prohibition": "Infrastructure dependent",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming limited to bilateral operator partnerships; limited national policy",
+    "language": "Tetum, Portuguese",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Roaming supported by operators; minimal regulatory documentation",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08af9"
+    }
+  },
+  {
+    "country": "Togo",
+    "regulatory_body": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+    "website": "https://www.arcep.tg",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "ECOWAS roaming regulation applies; capped regional tariffs and free incoming",
+    "language": "French",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "ARCEP Togo enforces regional roaming agreements",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08afa"
+    }
+  },
+  {
+    "country": "Tonga",
+    "regulatory_body": "Ministry of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications (MEIDECC)",
+    "website": "https://www.meidecc.gov.to",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Limited",
+    "type_of_roaming_prohibition": "Infrastructure-dependent",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Limited roaming via Digicel and satellite-based services",
+    "language": "Tongan, English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Ministry-led regulation; policy documents limited",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08afb"
+    }
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "regulatory_body": "Telecommunications Authority of Trinidad and Tobago (TATT)",
+    "website": "https://www.tatt.org.tt",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "CARICOM roaming agreement in force; free incoming calls and capped data",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "TATT actively publishes roaming consumer protection guidelines",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08afc"
+    }
+  },
+  {
+    "country": "Tunisia",
+    "regulatory_body": "Instance Nationale des T\u00e9l\u00e9communications (INT)",
+    "website": "https://www.intt.tn",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Consumer protections",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; INT mandates user consent and fair pricing disclosure",
+    "language": "Arabic, French",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "INT Tunisia publishes consumer protection and transparency obligations",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08afd"
+    }
+  },
+  {
+    "country": "Turkey",
+    "regulatory_body": "Information and Communication Technologies Authority (ICTA/BTK)",
+    "website": "https://www.btk.gov.tr",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; BTK enforces fair use and international roaming rights",
+    "language": "Turkish, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "BTK regulates and publishes annual roaming statistics and reports",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08afe"
+    }
+  },
+  {
+    "country": "Turkmenistan",
+    "regulatory_body": "Ministry of Communications of Turkmenistan (no dedicated regulator website)",
+    "website": NaN,
+    "website_status": "\u26a0\ufe0f Unavailable",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "State monopoly restrictions",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed only through state-run operator (T\u00fcrkmenTelecom)",
+    "language": "Turkmen, Russian",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "No independent regulator; roaming provided under state operator constraints",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08aff"
+    }
+  },
+  {
+    "country": "Tuvalu",
+    "regulatory_body": "Ministry of Communications and Transport",
+    "website": "No dedicated website",
+    "website_status": "\u26a0\ufe0f Unavailable",
+    "roaming_allowed_yes_no": "Limited",
+    "type_of_roaming_prohibition": "Infrastructure-dependent",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming supported via satellite and regional operator agreements",
+    "language": "Tuvaluan, English",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Limited data; roaming via single local provider",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08b00"
+    }
+  },
+  {
+    "country": "Uganda",
+    "regulatory_body": "Uganda Communications Commission (UCC)",
+    "website": "https://www.ucc.co.ug",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "One Network Area (EAC) enforced; capped roaming and free incoming",
+    "language": "English, Swahili",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "UCC enforces regional roaming policy under EAC",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08b01"
+    }
+  },
+  {
+    "country": "Ukraine",
+    "regulatory_body": "National Commission for the State Regulation of Communications and Informatization (NCCIR)",
+    "website": "https://nkrzi.gov.ua",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Joined EU Roaming Zone (2023); fair-use rules enforced",
+    "language": "Ukrainian",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "NCEC implements and monitors EU-style roaming rules",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08b02"
+    }
+  },
+  {
+    "country": "United Arab Emirates",
+    "regulatory_body": "Telecommunications and Digital Government Regulatory Authority (TDRA)",
+    "website": "https://www.tdra.gov.ae",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "GCC roaming agreement in place; regulated regional rates",
+    "language": "Arabic, English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "TDRA mandates transparency and consumer protection in roaming",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08b03"
+    }
+  },
+  {
+    "country": "United Kingdom",
+    "regulatory_body": "Office of Communications (Ofcom)",
+    "website": "https://www.ofcom.org.uk",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Market-based pricing",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; no longer covered by EU Roaming; operators must notify users",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "OFCOM monitors roaming disclosures post-Brexit",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08b04"
+    }
+  },
+  {
+    "country": "United States of America",
+    "regulatory_body": "Federal Communications Commission (FCC)",
+    "website": "https://www.fcc.gov",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "IoT permanent roaming restricted",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Consumer roaming allowed; IoT roaming must comply with local licensing",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML, PDF, API",
+    "others": "FCC enforces consumer rights and enterprise roaming rules",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08b05"
+    }
+  },
+  {
+    "country": "Uruguay",
+    "regulatory_body": "Unidad Reguladora de Servicios de Comunicaciones (URSEC)",
+    "website": "https://www.ursec.gub.uy",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; Mercosur agreement supports regional no-surcharge roaming",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "URSEC enforces regional and national roaming transparency rules",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08b06"
+    }
+  },
+  {
+    "country": "Uzbekistan",
+    "regulatory_body": "Ministry for Development of Information Technologies and Communications",
+    "website": "https://www.mitc.uz",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "No permanent roaming (IoT)",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Consumer roaming allowed; IoT roaming restricted without licensing",
+    "language": "Uzbek",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "Uzbektelecom regulates via licensing and partnership frameworks",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08b07"
+    }
+  },
+  {
+    "country": "Vanuatu",
+    "regulatory_body": "Telecommunications, Radiocommunications and Broadcasting Regulator (TRBR)",
+    "website": "https://www.trbr.vu",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Limited",
+    "type_of_roaming_prohibition": "Infrastructure-dependent",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming via satellite/partner networks only; limited transparency",
+    "language": "Bislama, English, French",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "TRBR oversees roaming indirectly via licensing",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08b08"
+    }
+  },
+  {
+    "country": "Venezuela",
+    "regulatory_body": "Comisi\u00f3n Nacional de Telecomunicaciones (CONATEL)",
+    "website": "https://www.conatel.gob.ve",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; CONATEL requires fair disclosure of terms",
+    "language": "Spanish",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "CONATEL monitors telecom services including international roaming",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08b09"
+    }
+  },
+  {
+    "country": "Vietnam",
+    "regulatory_body": "Authority of Telecommunications (Ministry of Information and Communications)",
+    "website": "https://mic.gov.vn",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming allowed; MIC mandates service provider responsibility and transparency",
+    "language": "Vietnamese",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "MIC updates regulatory guidance through Circulars",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08b0a"
+    }
+  },
+  {
+    "country": "Yemen",
+    "regulatory_body": "Ministry of Telecommunications and Information Technology",
+    "website": "http://www.mtit.gov.ye",
+    "website_status": "\u26a0\ufe0f Unavailable",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": "Conflict zone limitations",
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming highly variable due to conflict; based on local agreements",
+    "language": "Arabic",
+    "access_method_api_html_pdf_etc": "HTML",
+    "others": "Heavily dependent on local operator partnerships",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08b0b"
+    }
+  },
+  {
+    "country": "Zambia",
+    "regulatory_body": "Zambia Information and Communications Technology Authority (ZICTA)",
+    "website": "https://www.zicta.zm",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "SADC region roaming coordination applies; regulated terms",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "ZICTA supports regional and national roaming policy enforcement",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08b0c"
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "regulatory_body": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)",
+    "website": "https://www.potraz.gov.zw",
+    "website_status": "\u2705 Accessible",
+    "roaming_allowed_yes_no": "Yes",
+    "type_of_roaming_prohibition": NaN,
+    "roaming_details_data_cap_time_limits_licensing_etc": "Roaming permitted; POTRAZ enforces operator-level licensing",
+    "language": "English",
+    "access_method_api_html_pdf_etc": "HTML, PDF",
+    "others": "POTRAZ mandates disclosure and licensing for roaming SIMs",
+    "access_methods": [],
+    "primary_method": "UNKNOWN",
+    "needs_headless": false,
+    "worklist_ts": {
+      "$date": "2025-04-21T20:33:42.466Z"
+    },
+    "_id": {
+      "$oid": "6806aba6ed4f681022e08b0d"
+    }
+  }
+]
